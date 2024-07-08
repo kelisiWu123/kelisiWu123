@@ -10,7 +10,6 @@
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
 </div>
 
-![img](./profile-3d-contrib/profile-green-animate.svg)
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg"  alt="contribute"/>
 <!-- GitHub Activity Graph -->
 <table style="align-items: center">
